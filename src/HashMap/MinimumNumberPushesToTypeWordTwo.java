@@ -61,7 +61,7 @@ public class MinimumNumberPushesToTypeWordTwo {
 			}
 		}
 		System.out.println(count);
-		System.out.println('b' - 'a');
+		
 
 	}
 

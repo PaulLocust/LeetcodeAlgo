@@ -2,6 +2,8 @@ package BinarySearch;
 
 /*
  * 153. Find Minimum in Rotated Sorted Array
+ * Основаная мысль в том, чтобы найти полностью отсортированную половину и выбрать из неё самый первый элемент.
+ * После этого, мы отбрасываем эту половину и занимаемся другой.
  */
 public class FindMinimumInRotated {
 
